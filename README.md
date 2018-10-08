@@ -14,4 +14,4 @@ Alat pengukur kepuasan pasien yang berobat
 
 
 ### Gambar
-![finance_tracker_01](https://dl.dropboxusercontent.com/u/24566089/img_blog/finance_tracker_01.png)
+![gambar_mesin](https://github.com/mpratama/inibukanbom/blob/master/gambar_01.jpg)

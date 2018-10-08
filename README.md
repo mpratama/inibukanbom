@@ -14,4 +14,4 @@ Alat pengukur kepuasan pasien yang berobat
 
 
 ### Gambar
-![gambar_mesin](https://github.com/mpratama/inibukanbom/blob/master/gambar_01.jpg)
+<img src="https://github.com/mpratama/inibukanbom/blob/master/gambar_01.jpg" alt="gambar" width="200"/>
